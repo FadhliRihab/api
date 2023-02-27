@@ -1,0 +1,29 @@
+.user-list {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  box-shadow: 0 0 10px #ccc;
+  font-family: Arial, sans-serif;
+}
+
+.user-list h1 {
+  font-size: 28px;
+  margin-bottom: 10px;
+}
+
+.user-list ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.user-list li {
+  font-size: 18px;
+  margin-bottom: 5px;
+  padding: 10px;
+  background-color: #f9f9f9;
+  border-radius: 3px;
+  box-shadow: 0 0 5px #ccc;
+}
